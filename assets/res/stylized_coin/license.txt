@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Coin
+* source:	https://sketchfab.com/3d-models/stylized-coin-8cd6f95c44994ed5944a42892d0ffc10
+* author:	BarracudaByte (https://sketchfab.com/barracudabyte)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Coin" (https://sketchfab.com/3d-models/stylized-coin-8cd6f95c44994ed5944a42892d0ffc10) by BarracudaByte (https://sketchfab.com/barracudabyte) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
